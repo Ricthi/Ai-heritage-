@@ -1,0 +1,10 @@
+streamlit
+streamlit-drawable-canvas
+opencv-python-headless
+torch
+torchvision
+numpy
+pillow
+pandas
+pytesseract
+python-pptx
